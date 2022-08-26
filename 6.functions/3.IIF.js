@@ -22,12 +22,7 @@
 
 // console.log(getConfirmation)
 
-// function Student(){
 
-// }
-
-// var student = new Student()
-// console.log(student)
 
 var Database = (function (){
     var connection = null

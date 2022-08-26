@@ -13,3 +13,22 @@ console.log(function3)
 
 var scretIngredient = one()()()
 console.log(scretIngredient)
+
+function getMessage(){
+
+    function setmessage(){
+
+        var updateMessage = function(){
+            return "Updated the message already"
+        }
+       
+        updateMessage()
+    }
+    setmessage()
+    
+   // var messag1 = 
+    //var message = setmessage()
+   // return message
+}
+
+console.log(getMessage())

@@ -4,3 +4,14 @@
 // //12Scott34
 // //3Scott34
 // //3Scott7
+
+"use strict";
+
+ var a = 10
+console.log(a)
+
+function sample(){
+    b =20
+}
+
+sample()
