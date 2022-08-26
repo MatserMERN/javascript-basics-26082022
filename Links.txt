@@ -1,0 +1,5 @@
+Javascript Execution Engines - https://en.wikipedia.org/wiki/JavaScript_engine 
+
+https://www.w3schools.com/js/js_errors.asp - Error
+
+https://felixgerschau.com/javascript-memory-management/
