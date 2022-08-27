@@ -15,3 +15,30 @@ function sample(){
 }
 
 sample()
+
+
+var a = 10
+    b = a
+    a = 20
+console.log(a)
+console.log(b)
+
+// 20 10
+// 20 , 20
+var a = [1,2]
+    b = a
+    a.push(3)
+console.log(a)
+console.log(b)
+
+// // [1,2,3]
+// // [1,2,3]
+
+var a = [1,2]
+    b = a
+    a = [1,2,3]
+console.log(a)
+console.log(b)
+
+// [1,2,3]
+// [1,2,3]
